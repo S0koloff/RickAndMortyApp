@@ -1,3 +1,1 @@
-# RickAndMortyApp
-
-###Test task for the 1221Systems Company
+# Test task "Rick&Morty" for the 1221Systems Company
